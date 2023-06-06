@@ -5,7 +5,7 @@ This repository is created for implmentation of yolov3 and yolov4 with support f
 Python 3.8 or later with all of the pip install -U -r requirements.txt packages including:
 torch >= 1.3
 opencv-python
-Pillow
+Pillow....
 
 ```bash
 git clone git@github.com:surtho3764/yolov3yolov4.git
